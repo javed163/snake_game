@@ -1,0 +1,6 @@
+torch
+numpy
+pygame
+matplotlib
+flask
+flask-cors
